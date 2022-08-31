@@ -1,3 +1,4 @@
+
 # Exercício 1
 
 Crie duas funcões que recebem como parâmetro um objeto.
